@@ -9,7 +9,7 @@
 
 📫 How to reach me: adnanafzalbajwa@gmail.com
 
-🌍 Portfolio: LinkedIn
+🌍 Portfolio: [LinkedIn](https://www.linkedin.com/in/adnan-afzal-bajwa-826096108/)
 
 🛠️ Languages and Tools
 <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/> </p>
